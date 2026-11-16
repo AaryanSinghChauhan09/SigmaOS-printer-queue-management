@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-printer-queue-management"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS printer-queue-management component - printing"
+
+[lib]
+name = "printer_queue_management"
+path = "src/lib.rs"
