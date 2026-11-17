@@ -3,7 +3,7 @@ name = "SigmaOS-printer-queue-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "printer-queue-management component"
+description = "Printer Queue Management"
 upstream = []
 
 [contract]
